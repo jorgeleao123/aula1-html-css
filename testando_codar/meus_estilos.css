@@ -1,0 +1,14 @@
+.caixa_do_titulo{
+    background-color: rosybrown;
+    height: 4cm;
+}
+.caixa_do_subtitulo{
+    background-color: royalblue;
+    height: 3cm;
+}
+.cor_do_titulo{
+    color: green;
+}
+.cor_do_subtitulo{
+    color: rebeccapurple;
+}
