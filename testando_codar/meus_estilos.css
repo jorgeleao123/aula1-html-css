@@ -1,14 +1,16 @@
-.caixa_do_titulo{
-    background-color: rosybrown;
-    height: 4cm;
+.div_um{
+    background-color: grey;
+    height: 50px;
 }
-.caixa_do_subtitulo{
+.div_dois{
     background-color: royalblue;
-    height: 3cm;
+    height: 400px;
 }
-.cor_do_titulo{
-    color: green;
+.div_tres{
+    background-color: grey;
+    height: 50px;
 }
-.cor_do_subtitulo{
-    color: rebeccapurple;
+.div_quatro{
+    background-color: rebeccapurple;
+    height: 50px;
 }
